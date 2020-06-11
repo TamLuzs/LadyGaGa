@@ -1,10 +1,12 @@
-# Site de Apresentação (Ídolo)
+<!-- Descrição: Criação de uma única página resumido algum artista/idolo com HTML5 e CSS3. -->
 
-Neste projeto construímos um resumo da biografia de um artista/ídolo com às informações básicas e referências necessárias para conhecer pouquinho sobre aquele(a) cantor(a) que tanto escuta no fone de ouvido.
+# Site de Apresetanção: Lady Gaga
+![source](https://user-images.githubusercontent.com/48417347/84445149-be97ca00-ac19-11ea-84b7-8dfa103bdea7.gif)
+------------
 
-# Navegação:
-- Introdução
-- Discografia
-- Turnês
-- Curiosidade
-- Rede Sociais
+### Objetivo:
+Construir uma única página resumido algum artista/idolo com informações básicas, como: Sinopse/Biografia/Introdução, Discografia, Turnês, Curiosidade e Redes Sociais.
+
+### Ferramentas/Codificação Utilizadas:
+- Sublime Text;
+- HTML5;
