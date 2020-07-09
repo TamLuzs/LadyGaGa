@@ -9,4 +9,5 @@ Construir uma única página resumido algum artista/idolo com informações bás
 
 ### Ferramentas/Codificação Utilizadas:
 - Sublime Text;
-- HTML5;
+- HTML / HTML5;
+- CSS / CSS3.
