@@ -19,15 +19,15 @@ O projeto reúne uma pequena apresentação da cantora pop Lady Gaga ou Stefani 
 
 ### 💻 Layout
 <p align="center">
-    <img src=""https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/home.PNG"">
+    <img src="https://github.com/TamLuzs/LadyGaGa/blob/master/layout/home.PNG">
 </p>
 
 <p align="center">
-    <img src=""https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/albuns.PNG"">
+    <img src="https://github.com/TamLuzs/LadyGaGa/blob/master/layout/albuns.PNG">
 </p>
 
 <p align="center">
-    <img src=""https://github.com/TamLuzs/Clone-InterfaceInstagram/blob/master/layout/turne-curiosidade-contato.PNG"">
+    <img src="https://github.com/TamLuzs/LadyGaGa/blob/master/layout/turne-curiosidade-contato.PNG">
 </p>
 
 ## 📦 Ferramentas/Tecnologias Utilizadas:
